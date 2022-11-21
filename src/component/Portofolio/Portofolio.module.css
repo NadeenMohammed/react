@@ -1,0 +1,174 @@
+/* .work {
+    position: relative;
+    transition: all 0.5s;
+}
+
+.layer {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: #1ac4a2b3;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.work:hover .layer {
+    opacity: 1;
+
+}
+
+.work i {
+    font-size: 4.5rem;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    transform: (-45%);
+    color: white;
+}
+
+.header {
+    position: relative;
+}
+
+.header::after {
+    content: "";
+    position: absolute;
+    border: solid #2c3e50;
+    width: 100px;
+   top: 70%;
+   border-radius: 20px;
+}
+
+.header i{
+    color: #2c3e50;
+}
+
+.header::before {
+    content: "";
+    position: absolute;
+    border: solid#2c3e50;
+    border-radius: 20px;
+    width: 100px;
+    top: 71%;
+    right: 52%;
+}
+.header h1 
+{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+
+.header1::after {
+    content: "";
+    position: absolute;
+    border: solid #2c3e50;
+    width: 100px;
+   top: 95%;
+   left: 54%;
+   border-radius: 20px;
+}
+/* .header1 {
+    position: relative;
+}
+.header1::before {
+    content: "";
+    position: absolute;
+    border: solid#2c3e50;
+    border-radius: 20px;
+    width: 100px;
+    top: 95%;
+    right: 55%;
+} */
+/* .header1 i{
+    color: #2c3e50;
+} */
+/* .modal-body
+{
+    position: relative;
+}
+
+.modal-body i{
+    position: absolute;
+    top: -10%;
+    left: 90%;
+    color: #2c3e50;
+    cursor: pointer;
+}
+
+.btn-clos
+{
+    background-color: #1ac4a2b3;
+    color: white;
+} */ 
+
+
+
+
+
+
+
+
+/* ............................. */
+
+.page {
+    padding: 6rem 0;
+}
+
+
+.head {
+    font-size: 3rem;
+    line-height: 2.5rem;
+    color: #2c3e50 !important;
+    text-align: center !important;
+}
+
+.pic {
+    cursor: pointer;
+    position: relative;
+    display: block;
+    max-width: 25rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 15px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+    background-color: rgba(26, 188, 156, 0.9);
+    height: 100% !important;
+    width: 100% !important;
+    align-items: center !important;
+    justify-content: center !important;
+    display: flex !important;
+    cursor: pointer;
+    /* position: relative; */
+    display: block;
+    max-width: 25rem;
+    border-radius: 0.5rem;
+    /* overflow: hidden; */
+    border-radius: 2rem;
+
+
+
+}
+
+.overlay:hover {
+    opacity: 1;
+}
+
+.item {
+    font-size: 1.5rem;
+    color: #fff !important;
+    text-align: center !important;
+}
+

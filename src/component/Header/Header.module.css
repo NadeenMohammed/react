@@ -1,0 +1,36 @@
+.page {
+    background-color: #1abc9c !important;
+    color: #fff !important;
+    text-align: center !important;
+    height: 100vh;
+    padding-top: 70px;
+
+}
+
+
+.photo {
+    width: 15rem;
+    margin-bottom: 3rem;
+}
+
+.words {
+    font-size: 4rem;
+    line-height: 3.5rem;
+    text-transform: uppercase !important;
+    text-align: center !important;
+    color: #fff !important;
+    font-family: "Montserrat";
+    margin-bottom: 1rem;
+    
+   
+}
+
+.paragraph{
+    font-size: 1.5rem;
+    font-weight: 300 !important;
+    color: #fff !important;
+    text-align: center !important;
+    font-family: "Lato";
+    margin-bottom: 1rem;
+
+}
